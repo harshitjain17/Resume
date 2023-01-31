@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1675190202 "f:/US Documents_2/Resume/Resume/resume_in_latex/harshit_jain_resume.tex" "harshit_jain_resume.pdf" "harshit_jain_resume" 1675190205
+["pdflatex"] 1675190310 "f:/US Documents_2/Resume/Resume/resume_in_latex/harshit_jain_resume.tex" "harshit_jain_resume.pdf" "harshit_jain_resume" 1675190314
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675117200 84933 775d3cbd7593b6d2e57cdc8aab4f2992 ""
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1645462263 11548 d03f982f5971064cbd80514821d78a5d ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1645210004 9769493 fa2a77e8186b1700d56a6f313785a47b ""
@@ -60,10 +60,10 @@
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1636710260 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
   "C:/Users/DELL/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "f:/US Documents_2/Resume/Resume/resume_in_latex/harshit_jain_resume.tex" 1675190200 6498 5e120d08bc239bcd433d90c273a1fb3c ""
-  "harshit_jain_resume.aux" 1675190204 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "harshit_jain_resume.out" 1675190204 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "harshit_jain_resume.tex" 1675190200 6498 5e120d08bc239bcd433d90c273a1fb3c ""
+  "f:/US Documents_2/Resume/Resume/resume_in_latex/harshit_jain_resume.tex" 1675190305 6498 5e120d08bc239bcd433d90c273a1fb3c ""
+  "harshit_jain_resume.aux" 1675190313 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "harshit_jain_resume.out" 1675190313 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "harshit_jain_resume.tex" 1675190305 6498 5e120d08bc239bcd433d90c273a1fb3c ""
   "resume.cls" 1672741556 5067 1dfd396138ac352460172a8def976d53 ""
   (generated)
   "harshit_jain_resume.aux"
