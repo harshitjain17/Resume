@@ -21,6 +21,7 @@
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
 \LoadClass[10pt,a4paper]{article} % Font size and paper type
+\fontsize{10}{12}\selectfont % The \fontsize command takes two arguments: the first argument is the font size in points, and the second argument is the line spacing in points. The \selectfont command tells LaTeX to use the specified font size and line spacing.
 
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
@@ -109,9 +110,11 @@
   \begin{list}{}{ % List for each individual item in the section
     \setlength{\leftmargin}{0em} % Margin within the section
   }
+  \itemsep -4pt \vspace{-4pt}
   \item[]
 }{
   \end{list}
+  % \vspace{-4pt}
 }
 
 %----------------------------------------------------------------------------------------
@@ -125,10 +128,10 @@
   {\em #3} \hfill {\em #4} % Italic job title and location
   }\smallskip
   \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
-   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+   \itemsep -4pt \vspace{-4pt} % Compress items in list together for aesthetics
   }{
   \end{list}
-  \vspace{0.5em} % Some space after the list of bullet points
+  \vspace{-4pt} % Some space after the list of bullet points
 }
 
 % The below commands define the whitespace after certain things in the document - they can be \smallskip, \medskip or \bigskip
