@@ -20,8 +20,8 @@
 
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
-\LoadClass[10pt,a4paper]{article} % Font size and paper type
-\fontsize{11}{11}\selectfont % The \fontsize command takes two arguments: the first argument is the font size in points, and the second argument is the line spacing in points. The \selectfont command tells LaTeX to use the specified font size and line spacing.
+\LoadClass[10pt,letterpaper]{article} % Font size and paper type
+\fontsize{10}{10}\selectfont % The \fontsize command takes two arguments: the first argument is the font size in points, and the second argument is the line spacing in points. The \selectfont command tells LaTeX to use the specified font size and line spacing.
 
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
